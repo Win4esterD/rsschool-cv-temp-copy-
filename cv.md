@@ -153,7 +153,8 @@ Magic Ball |[Magic Ball](https://github.com/Win4esterD/Magic-ball "Magic Ball")|
 | Spanish Language Course | Mc Graw Hill | [link](https://www.busuu.com/ "Course") | 2021 | [Yes](https://api.busuu.com/anon/certificates/40d91f01dc44716864c20509f3b072a5?utm_source=CRM&utm_group=ENG&utm_medium=CERTIFICATE_LEVEL&utm_campaign=CERTIFICATE_LEVEL "Certificate")|
 | English Language Course | Mc Graw Hill | [link](https://www.busuu.com/ "Course") | 2020 | [Yes](https://api.busuu.com/anon/certificates/a9b9722fed83cdb65592feadb1d6d0c6?lang=ru "Certificate")|
 | Business English Course | Mc Graw Hill | [link](https://www.busuu.com/ "Course") | 2020 | [Yes](https://api.busuu.com/anon/certificates/720887b3bcd3c7fd687f833783a3756f "Certificate")|
-  
+
+
 ---
 
 ## Previous job Positions:
