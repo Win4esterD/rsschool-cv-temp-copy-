@@ -132,7 +132,7 @@ Magic Ball |[Magic Ball](https://github.com/Win4esterD/Magic-ball "Magic Ball")|
 
 
 
-### Courses:  
+## Courses:  
 
 | Course Name | Organization that provided the course | Course link   | Year of accomplishment| Certificate |
 | :----------: |:-------------------------------------:|:-------------:|    :--------:         | :--------:  |
