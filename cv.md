@@ -1,6 +1,7 @@
 # Pavel Didenko
 
 ## Junior Frontend Developer
+![image](gr68xtzz4o4211.XwHMe.jpg)
 ---
 
 ### Contact information:
@@ -14,6 +15,10 @@
 
 
 ## About me:  
+
+**Birth date:** 13.09.1991  
+**Country:** Belarus  
+**City:** Borisov  
 
 I'm a self learning programmer. In December 2020 I decided to switch my career and started my journey of studying programming.
 Starting my work from scratch, I chose Python as my first programming language and learnt the basics of Python and the basics of OOP in Python. Mostly I used [Stepic](https://stepik.org/ "Stepic") platform for my education.   
