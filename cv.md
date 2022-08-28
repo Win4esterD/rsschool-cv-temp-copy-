@@ -2,8 +2,9 @@
 
 ## Junior Frontend Developer
 ![image](https://downloader.disk.yandex.ru/preview/e467acdada5a53344932b0ad9f69986489330570bc5dd110fa5aa222dd957e27/630bcfad/GNRttoREwnFpqNWTRp_9cfhaG8UchemO8oI_BKs4ikF-ZttNyp5fi6yZFOD_iUp2_tc2o-B8KeiKLkz41exPCA%3D%3D?uid=0&filename=gr68xtzz4o4211.XwHMe.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048)
----
 
+
+---
 ### Contact information:
 
 
