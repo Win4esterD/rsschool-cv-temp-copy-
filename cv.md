@@ -126,16 +126,16 @@ Magic Ball |[Magic Ball](https://github.com/Win4esterD/Magic-ball "Magic Ball")|
 
 | Name of the educational institution  | Years of study | Specialization | Profession |
 | :-----------------------------------|:--------------:| :-------------:| :--------: |
-| Belorussian State Economic University | 2011 - 2017    | International Economy| Economist|
-| Belorussian Borisov State College | 2007 - 2010    | Mechanical Engineering| Operator / adjuster of machines with program control|
-| School №15 of Borisov city | 1998 - 2007    | Specialized learning of English language | none |
+| [Belorussian State Economic University](http://bseu.by/ "University") | 2011 - 2017 | International Economy| Economist|
+| [Borisov State College](https://bgk-borisov.by/ "University") | 2007 - 2010  | Mechanical Engineering| Operator / adjuster of machines with program control|
+| [School №15 of Borisov city (Gymnasium No. 3)](https://gymn3.rooborisov.by/ "University") | 1998 - 2007 | Specialized learning of English language | none |
 
 
 
 ### Courses:  
 
 | Course Name | Organization that provided the course | Course link | Year of accomplishment| Certificate |
-| :-----------------------------------|:--------------:| :-------------:| :--------: | :--------: |
+| :-------------------------|:--------------:| :-------------:| :--------: | :--------: |
 | Linux Introduction | Bioinformatics Institute | [link](https://stepik.org/course/73/syllabus "Course link") | 2022 | [Yes](https://stepik.org/cert/1352699 "Certificate")|
 | Big Data and Data Science Introduction | Russian Programming School | [link](https://stepik.org/course/101687/syllabus "Course") | 2022 | [Yes](https://stepik.org/cert/1362793 "Certificate")|
 | SQL Interactive Simulator | Far East Federal University | [link](https://stepik.org/course/63054/syllabus "Course") | 2022 | [Yes](https://stepik.org/cert/1387270 "Certificate")|
