@@ -132,10 +132,11 @@ Magic Ball |[Magic Ball](https://github.com/Win4esterD/Magic-ball "Magic Ball")|
 
 
 
-## Courses:  
+### Courses: 
+
 
 | Course Name | Organization that provided the course | Course link   | Year of accomplishment| Certificate |
-| :----------: |:-------------------------------------:|:-------------:|    :--------:         | :--------:  |
+| :---------- |:-------------------------------------:|:-------------:|    :--------:         | :--------:  |
 | Linux Introduction | Bioinformatics Institute | [link](https://stepik.org/course/73/syllabus "Course link") | 2022 | [Yes](https://stepik.org/cert/1352699 "Certificate")|
 | Big Data and Data Science Introduction | Russian Programming School | [link](https://stepik.org/course/101687/syllabus "Course") | 2022 | [Yes](https://stepik.org/cert/1362793 "Certificate")|
 | SQL Interactive Simulator | Far East Federal University | [link](https://stepik.org/course/63054/syllabus "Course") | 2022 | [Yes](https://stepik.org/cert/1387270 "Certificate")|
@@ -151,7 +152,8 @@ Magic Ball |[Magic Ball](https://github.com/Win4esterD/Magic-ball "Magic Ball")|
 | Javascript for Beginners | Anton Kholin | [link](https://stepik.org/course/2223/syllabus "Course") | 2021 | [Yes](https://stepik.org/cert/1305102 "Certificate")|
 | Spanish Language Course | Mc Graw Hill | [link](https://www.busuu.com/ "Course") | 2021 | [Yes](https://api.busuu.com/anon/certificates/40d91f01dc44716864c20509f3b072a5?utm_source=CRM&utm_group=ENG&utm_medium=CERTIFICATE_LEVEL&utm_campaign=CERTIFICATE_LEVEL "Certificate")|
 | English Language Course | Mc Graw Hill | [link](https://www.busuu.com/ "Course") | 2020 | [Yes](https://api.busuu.com/anon/certificates/a9b9722fed83cdb65592feadb1d6d0c6?lang=ru "Certificate")|
-| Business English Course | Mc Graw Hill | [link](https://www.busuu.com/ "Course") | 2020 | [Yes](https://api.busuu.com/anon/certificates/720887b3bcd3c7fd687f833783a3756f "Certificate")|    
+| Business English Course | Mc Graw Hill | [link](https://www.busuu.com/ "Course") | 2020 | [Yes](https://api.busuu.com/anon/certificates/720887b3bcd3c7fd687f833783a3756f "Certificate")|
+  
 ---
 
 ## Previous job Positions:
