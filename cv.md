@@ -15,14 +15,14 @@
 
 ## About me:  
 
-I'm self lerning programmer. In Decenmer 2020 I decided to switch my career and started my journy of stydying programming.
-Starting my work from scratch, I chose Python as my first programming language and learnt the basics of Python and the basics of OOP on Python. Mostly I used [Stepic](https://stepik.org/ "Stepic") platform for my education.   
+I'm a self learning programmer. In December 2020 I decided to switch my career and started my journey of studying programming.
+Starting my work from scratch, I chose Python as my first programming language and learnt the basics of Python and the basics of OOP in Python. Mostly I used [Stepic](https://stepik.org/ "Stepic") platform for my education.   
 
-In February 2022 I applied and got accepted to peform my internship as "Trainee Python Developer" in [iTechArt](https://www.itechart.by/ "iTechArt") company. Even though I didn't receive job offer from the company, because my experience was not sufficient to accomplish all the tasks until deadline, I had obtained some experience of working with Django framework, automated testing with Python by using PyTest for testing API of Django projects. Practiced database management using SQL and Django ORM.   
+In February 2022 I applied and got accepted to perform my internship as "Trainee Python Developer" in [iTechArt](https://www.itechart.by/ "iTechArt") company. Even though I didn't receive a job offer from the company, because my experience was not sufficient to accomplish all the tasks until the deadline, I had obtained some experience of working with Django framework, automated testing with Python by using PyTest for testing API of Django projects. Practiced database management using SQL and Django ORM.   
 
-After the internship I decided to gain more experience with HTML, CSS and Javascript. Since May until August I've leart the basics of these technologies and gained experience of creating landing pages using Figma layouts. Links to my works you can find below in this CV. In August 2022 I've learnt about RS School Front-end developer training in September and took my chance to apply to it.  
+After the internship, I decided to gain more experience with HTML, CSS and Javascript. Since May until August I've learnt the basics of these technologies and gained experience of creating landing pages using Figma layouts. Links to my works you can find below in this CV. In August 2022 I've learnt about RS School Front-end developer training in September and took my chance to apply to it.  
 
-I see it as an opportunity to finally reach my goal of obtaining a position of web developer in IT company.
+I see it as an opportunity to finally reach my goal of obtaining a position of web developer in an IT company.
 
 ---
 
@@ -126,7 +126,7 @@ Magic Ball |[Magic Ball](https://github.com/Win4esterD/Magic-ball "Magic Ball")|
 
 | Name of the educational institution  | Years of study | Specialization | Profession |
 | :-----------------------------------|:--------------:| :-------------:| :--------: |
-| Belorussia State Economic University | 2011 - 2017    | International Economy| Economist|
+| Belorussian State Economic University | 2011 - 2017    | International Economy| Economist|
 | Belorussian Borisov State College | 2007 - 2010    | Mechanical Engineering| Operator / adjuster of machines with program control|
 | School №15 of Borisov city | 1998 - 2007    | Specialized learning of English language | none |
 
@@ -137,7 +137,7 @@ Magic Ball |[Magic Ball](https://github.com/Win4esterD/Magic-ball "Magic Ball")|
 | Course Name | Organization that provided the course | Course link | Year of accomplishment| Certificate |
 | :-----------------------------------|:--------------:| :-------------:| :--------: | :--------: |
 | Linux Introduction | Bioinformatics Institute | [link](https://stepik.org/course/73/syllabus "Course link") | 2022 | [Yes](https://stepik.org/cert/1352699 "Certificate")|
-| BigData and Data Schience Introduction | Russian Programming School | [link](https://stepik.org/course/101687/syllabus "Course") | 2022 | [Yes](https://stepik.org/cert/1362793 "Certificate")|
+| Big Data and Data Science Introduction | Russian Programming School | [link](https://stepik.org/course/101687/syllabus "Course") | 2022 | [Yes](https://stepik.org/cert/1362793 "Certificate")|
 | SQL Interactive Simulator | Far East Federal University | [link](https://stepik.org/course/63054/syllabus "Course") | 2022 | [Yes](https://stepik.org/cert/1387270 "Certificate")|
 | HTML/CSS | FructCode | [link](https://fructcode.com/ru/courses/html-and-css/ "Course") | 2022 | [Yes](https://fructcode.com/ru/certificates/d2042bf217b8e38c36314cab3781f296/en/ "Certificate")|
 | HTML/CSS Advanced | FructCode | [link](https://fructcode.com/ru/courses/html-and-css-advanced/ "Course") | 2022 | [Yes](https://fructcode.com/ru/certificates/f90f2472ea1fd9fb5bf34e708a69e787/en/ "Certificate")|
@@ -145,7 +145,7 @@ Magic Ball |[Magic Ball](https://github.com/Win4esterD/Magic-ball "Magic Ball")|
 | Python for Beginners | BEEGEEK School | [link](https://stepik.org/course/58852/syllabus "Course") | 2021 | [Yes](https://stepik.org/cert/933728 "Certificate")|
 | Python for Beginners | Egoroff_channel | [link](https://stepik.org/course/63085/syllabus "Course") | 2021 | [Yes](https://stepik.org/cert/1009794 "Certificate")|
 | Python OOP Basics | Egoroff_channel | [link](https://stepik.org/course/114354/promo?search=1244029534 "Course") | 2021 | No|
-| HTML/CSS For Beginners | itc-digital | [link](https://stepik.org/course/38218/syllabus "Course") | 2021 | [Yes](https://stepik.org/cert/1259305 "Certificate")|
+| HTML/CSS For Beginners | ITC-digital | [link](https://stepik.org/course/38218/syllabus "Course") | 2021 | [Yes](https://stepik.org/cert/1259305 "Certificate")|
 | Automated Testing with Selenium and Python | Stepic | [link](https://stepik.org/course/575/syllabus "Course") | 2021 | [Yes](https://stepik.org/cert/1297087 "Certificate")|
 | Python Starter | ITDVN | [link](https://itvdn.com/ru/news/article/new-course-python-starter "Course") | 2021 | [Yes](https://testprovider.com/ru/search-certificate/tp03752444 "Certificate")|
 | Javascript for Beginners | Anton Kholin | [link](https://stepik.org/course/2223/syllabus "Course") | 2021 | [Yes](https://stepik.org/cert/1305102 "Certificate")|
@@ -171,17 +171,17 @@ Magic Ball |[Magic Ball](https://github.com/Win4esterD/Magic-ball "Magic Ball")|
 * Russian Language (native)  
 
 
-### **Experience of using English Language** 
+### **Experience of using the English Language** 
 
-Studied English at school with specialized learning of English. By the time of my graduation I was capable of communicating with native speakers. Had experience of communication via internet and face to face with the citizens of the US. During my lerning in the University, I obtained experience of conversation about topics related to economy. In free time I used to communicate with foreign persons via internet, watched films and listened to the music in English.  
+Studied English at school with specialized learning of English. By the time of my graduation, I was capable of communicating with native speakers. Had experience of communication via internet and face to face with the citizens of the US. During my learning in the University, I obtained experience of conversation about topics related to the economy. In free time I used to communicate with foreign persons via internet, watched films and listened to the music in English.  
 
-When I worked on position of "Marketing specialist", I used to perform conversations with foreign partners of the company I worked for, solved business tasks like ordering new spare parts or durable equipment, participated as an interpreter in business conversations between the management of my company and foreign partners. Translated from English to Russian technical documentations of the equipment, supplied by our partners, to increase sales of the products and obtain bigger market share, and make it easier for our customers on the territori of Customs Union, to get familiar with the products.
+When I worked on position of "Marketing specialist", I used to perform conversations with foreign partners of the company I worked for, solved business tasks like ordering new spare parts or durable equipment, participated as an interpreter in business conversations between the management of my company and foreign partners. Translated from English to Russian technical documentations of the equipment, supplied by our partners, to increase sales of the products and obtain a bigger market share, and make it easier for our customers on the territory of the Customs Union, to get familiar with the products.
 
 According to this [English test facility](https://examinator.epam.com/Main/PersonalAssignments/475976 "English test"), my level is B2.  I have strong conversation skill, capable of listening and understanding native speakers, can perform business conversations, read fiction and technical literature related to IT industry, especially programming.
 
-During my journy of studying programming, English helped me a lot on several occasions. I used it to find necessary information in technical documentation of Django framework, to complete the task related with database management using Django ORM, also used English to find the way to create my proper HTTP protocol by using only Socket or SocketServer library (It was the task from my internship in iTechArt company, which I successfuly accomplished.) Also I used English for reading the book "Ben Shaw - Web development with Django". These are not the only occasions when I used English, but these are most significant and memorable.
+During my journey of studying programming, English helped me a lot on several occasions. I used it to find necessary information in technical documentation of Django framework, to complete the task related with database management using Django ORM, also used English to find the way to create my proper HTTP protocol by using only Socket or SocketServer library (It was the task from my internship in iTechArt company, which I successfully accomplished.) Also I used English for reading the book "Ben Shaw - Web development with Django". These are not the only occasions when I used English, but these are most significant and memorable.
 
 ***
 ### **Experience of using Spanish Language**
 
-Started learning Spanish in February 2019, because I came to conclusion that knowledge of only one foreign language (English) wasn't impressive enough. During my journy of learning Spanish, I used such resources as the book "Full Course of Spanish Language by R. Gonsales and R. Alimova". Also I used aplications: Memrise, Busuu, SpanishDict to gain biger vocabulary. Practiced Spanish by communicating with Spanish speaking people in the Discord app, developed my speaking and writing skills. Now I can spend hours speaking with the natives of Spanish and hope it would find it's use in my caree of Web Developer.
+Started learning Spanish in February 2019, because I came to the conclusion that knowledge of only one foreign language (English) wasn't impressive enough. During my journey of learning Spanish, I used such resources as the book "Full Course of Spanish Language by R. Gonsales and R. Alimova". Also, I used applications: Memrise, Busuu, SpanishDict to gain bigger vocabulary. Practiced Spanish by communicating with Spanish speaking people in the Discord app, developed my speaking and writing skills. Now I can spend hours speaking with the natives of Spanish and hope it would find its use in my career of Web Developer.
