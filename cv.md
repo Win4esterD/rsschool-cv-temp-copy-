@@ -142,6 +142,7 @@ Magic Ball |[Magic Ball](https://github.com/Win4esterD/Magic-ball "Magic Ball")|
 
 | Course Name | Organization that provided the course | Course link   | Year of accomplishment| Certificate |
 | :---------- |:-------------------------------------:|:-------------:|    :--------:         | :--------:  |
+| Git Basics | ITDVN | [link](https://itvdn.com/ru/video/git-basics "Course link") | 2022 | [Yes](https://testprovider.com/ru/search-certificate/tp49678764 "Certificate")|
 | Linux/GIT/Hosting | FructCode | [link](https://fructcode.com/ru/courses/linux-and-git/ "Course link") | 2022 | [Yes](https://fructcode.com/ru/certificates/b528576ba4984cd2ff09aa19b32203d3/en/ "Certificate")|
 | Linux Introduction | Bioinformatics Institute | [link](https://stepik.org/course/73/syllabus "Course link") | 2022 | [Yes](https://stepik.org/cert/1352699 "Certificate")|
 | Big Data and Data Science Introduction | Russian Programming School | [link](https://stepik.org/course/101687/syllabus "Course") | 2022 | [Yes](https://stepik.org/cert/1362793 "Certificate")|
